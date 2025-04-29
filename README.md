@@ -27,6 +27,4 @@ This is a real-time chat application currently under active development.
 - Real-time: Socket.io (planned)
 - Database: MongoDB (planned)
 
----
 
-Made with ❤️ by [Sayan Sen](https://github.com/Sayan0361)
