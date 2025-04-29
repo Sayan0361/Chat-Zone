@@ -24,7 +24,7 @@ This is a real-time chat application currently under active development.
 ## 🧑‍💻 Tech Stack (Planned / In Use)
 - Frontend: React.js, Tailwind CSS
 - Backend: Node.js, Express.js
-- - Database: MongoDB
+- Database: MongoDB
 - Real-time: Socket.io (planned)
 
 
