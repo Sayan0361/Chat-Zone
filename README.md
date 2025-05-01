@@ -42,22 +42,28 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 
 ---
 
-📸 Screenshots
+##📸 Screenshots
 
-🔐 Sign In Page
+**🔐 Sign In Page**
 ![Screenshot 2025-05-01 104400](https://github.com/user-attachments/assets/c2710340-2397-4f7a-b358-5adbce86f089)
 
 
-📝 Sign Up Page
+
+**📝 Sign Up Page**
 ![Screenshot 2025-05-01 104427](https://github.com/user-attachments/assets/35371eb9-c7d5-4eea-ab36-ede48a05cec8)
+
 ![Screenshot 2025-05-01 104639](https://github.com/user-attachments/assets/9444d567-eb6b-4e89-a91b-2d42bf8d8357)
 
 
-🏠 Home Page
+
+**🏠 Home Page**
 ![Screenshot 2025-05-01 104323](https://github.com/user-attachments/assets/c3ce2a20-3561-4437-bdc2-9e371aae3599)
 
 
-💬 Chat Page UI
+
+**💬 Chat Page UI**
+![Screenshot 2025-05-01 113146](https://github.com/user-attachments/assets/1a457c2a-a081-4cde-92b8-6c72530c6c87)
+
 ![Screenshot 2025-05-01 113218](https://github.com/user-attachments/assets/6de33f0d-7aa7-48a5-b7e0-a9cd538e0f1d)
 
 
