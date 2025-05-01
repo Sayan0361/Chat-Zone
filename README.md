@@ -42,86 +42,22 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 
 ---
 
-## 🔧 Installation & Setup
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/chat-app.git
-   cd chat-app
-Install dependencies for frontend & backend
-
-bash
-Copy
-Edit
-cd frontend
-npm install
-cd ../backend
-npm install
-Configure environment variables
-Create a .env file in the backend/ directory and add:
-
-env
-Copy
-Edit
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-PORT=4000
-Run the project
-
-bash
-Copy
-Edit
-# Run backend
-cd backend
-npm start
-
-# Run frontend (in another terminal)
-cd frontend
-npm start
 📸 Screenshots
-Make sure to upload your screenshots and update these links accordingly.
 
-Sign In Page
+🔐 Sign In Page
+![Screenshot 2025-05-01 104400](https://github.com/user-attachments/assets/c2710340-2397-4f7a-b358-5adbce86f089)
 
-Sign Up Page
 
-Home Page
+📝 Sign Up Page
+![Screenshot 2025-05-01 104427](https://github.com/user-attachments/assets/35371eb9-c7d5-4eea-ab36-ede48a05cec8)
+![Screenshot 2025-05-01 104639](https://github.com/user-attachments/assets/9444d567-eb6b-4e89-a91b-2d42bf8d8357)
 
-Chats Page UI
 
-📍 Current Progress
-✅ Sign Up, Sign In with validation
+🏠 Home Page
+![Screenshot 2025-05-01 104323](https://github.com/user-attachments/assets/c3ce2a20-3561-4437-bdc2-9e371aae3599)
 
-✅ Password encryption using bcrypt
 
-✅ JWT authentication flow
+💬 Chat Page UI
+![Screenshot 2025-05-01 113218](https://github.com/user-attachments/assets/6de33f0d-7aa7-48a5-b7e0-a9cd538e0f1d)
 
-✅ Chat page layout
 
-🛠️ Upcoming Features
-🔄 Real-time messaging (Socket.io)
-
-👥 User list with online/offline status
-
-🔒 Private 1:1 chats
-
-💾 Chat message persistence (MongoDB)
-
-🎨 Theme switcher (dark/light mode)
-
-📱 Fully responsive design
-
-🤝 Contributing
-This project is currently being built as a learning + passion project. Contributions, suggestions, and feedback are welcome!
-
-📃 License
-MIT License
-
-💙 Made with Love & Code by Sayan Sen
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like a matching `.gitignore` and `.env.example` file for this project as well.
